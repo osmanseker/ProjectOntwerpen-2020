@@ -1,2 +1,2 @@
 # ProjectOntwerpen-2020
-PCB ontwerp
+PCB ontwerp Nixie Bargraph Thermometer
